@@ -1,7 +1,9 @@
 # CoxeterGroups.jl
 
-[![Build Status](https://github.com/ulthiel/CoxterGroups.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/ulthiel/CoxterGroups.jl/actions/workflows/CI.yml?query=branch%3Amain)
-[![Coverage](https://codecov.io/gh/ulthiel/CoxterGroups.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/ulthiel/CoxterGroups.jl)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://RexWzh.github.io/CoxeterGroups.jl/stable)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://RexWzh.github.io/CoxeterGroups.jl/dev)
+[![Build Status](https://github.com/RexWzh/CoxeterGroups.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/RexWzh/CoxeterGroups.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/RexWzh/CoxeterGroups.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/RexWzh/CoxeterGroups.jl)
 
 A Julia package for computing in Coxeter groups (draft, under development).
 
