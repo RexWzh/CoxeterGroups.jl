@@ -1,4 +1,9 @@
 # CoxeterGroups.jl
+[![][action-img]][action-url]
+[![][pkgeval-img]][pkgeval-url]
+[![][codecov-img]][codecov-url]
+[![][docs-stable-img]][docs-stable-url]
+[![][docs-dev-img]][docs-dev-url]
 
 A Julia package for computing in Coxeter groups (draft, under development).
 
