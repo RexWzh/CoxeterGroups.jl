@@ -1,5 +1,8 @@
 # CoxeterGroups.jl
 
+[![Build Status](https://github.com/ulthiel/CoxterGroups.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/ulthiel/CoxterGroups.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/ulthiel/CoxterGroups.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/ulthiel/CoxterGroups.jl)
+
 A Julia package for computing in Coxeter groups (draft, under development).
 
 The current code is due to T. Schmit (2021) and implements the algorithm from the paper
