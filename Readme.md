@@ -1,9 +1,9 @@
 # CoxeterGroups.jl
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://RexWzh.github.io/CoxeterGroups.jl/stable)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://RexWzh.github.io/CoxeterGroups.jl/dev)
-[![Build Status](https://github.com/RexWzh/CoxeterGroups.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/RexWzh/CoxeterGroups.jl/actions/workflows/CI.yml?query=branch%3Amain)
-[![Coverage](https://codecov.io/gh/RexWzh/CoxeterGroups.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/RexWzh/CoxeterGroups.jl)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://Ulthiel.github.io/CoxeterGroups.jl/stable)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Ulthiel.github.io/CoxeterGroups.jl/dev)
+[![Build Status](https://github.com/Ulthiel/CoxeterGroups.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/Ulthiel/CoxeterGroups.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/Ulthiel/CoxeterGroups.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/Ulthiel/CoxeterGroups.jl)
 
 A Julia package for computing in Coxeter groups (draft, under development).
 
